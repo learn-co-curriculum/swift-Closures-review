@@ -27,3 +27,8 @@ Open the `ClosureFun.playground` file and solve the problems. We will review the
 ### Ask Questions in our Google Doc
 
 [ask a question](https://docs.google.com/a/flatironschool.com/document/d/1o1w-cxYVf4tpZ52jP_vad7VhyGtmtOFQDxZZvn2ayqo/edit?usp=sharing)
+
+
+# Solution 
+
+[Video](https://youtu.be/SK6IxvqYqZY)
